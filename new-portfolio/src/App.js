@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react'
 
 function App() {
-  return <div>kalai</div>;
+  return (
+    <div>
+      App.js
+    </div>
+  )
 }
 
-export default App;
+export default App
